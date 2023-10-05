@@ -16,10 +16,10 @@ body {
     background-image: linear-gradient(to right, #2895fb,#0de2f1) !important;
     border-radius: 10px;
 }
-.nav-btns button img{
+/* .nav-btns button img{
     width: 20px !important;
     padding: 0 !important;
-    margin: 0 !important;
+    margin: 0 !important; */
 }
 .btn:not(.nav-btns button){
     background-image: linear-gradient(to right, #fbf9f9,#ffffff);
